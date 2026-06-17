@@ -1,8 +1,6 @@
 import './App.css';
 import { useState } from 'react';
 
-import { useState } from "react";
-
 // ── INITIAL DATA ─────────────────────────────────────────────────────────────
 const INITIAL_STUDENTS = [
   {
